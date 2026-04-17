@@ -1,4 +1,4 @@
-# -Intro-to-VR-Development
+# Building Virtual Worlds: From 3D Modeling in Blender to Interactive Systems in Unity
 
 To put this report together, I looked at research from Meta Platforms and Google VR, along with several helpful YouTube videos, to move past the hype and understand the technical mechanics of Virtual Reality. My primary goal was to grasp how VR works behind the scenes and where it is being applied today. Through this process, I learned that VR is not just about watching a screen; it is about stepping into the content. By wearing a headset that blocks out physical surroundings, you are transported into a digital world where the ultimate goal is achieving "Presence"—that specific moment where your brain stops thinking "I am in my room" and starts believing "I am actually here."
 
