@@ -1,0 +1,16 @@
+This scene features a high-fidelity 3D model of frosted donuts with sprinkles presented on a ceramic plate, accompanied by a coffee mug. The project was developed in Blender 5.1.1, focusing on fundamental 3D modeling and rendering techniques.....
+
+The workshop has been a massive learning curve, but seeing everything come together is pretty cool. It’s a lot of work to go from a blank screen to a world you can actually "step" into.
+
+Building the Pieces (Blender)
+I started by making 3D objects in Blender. It’s like digital clay—you pull and shape blocks until they look like real items (trees, furniture, or buildings). The trick is making them look detailed without making the file so heavy that the VR system crashes.
+
+Making it Work (Unity)
+After building the objects, I moved them into Unity. This is the "brain" of the project where I added:
+
+Movement: Setting it up so you can walk or "teleport" around.
+Interactions: Coding things so you can actually pick up objects or push buttons with your virtual hands.
+Physics: Making sure things fall or bounce like they do in real life.
+
+The Result
+The best feeling is putting on the headset and seeing your own work surrounding you. It’s one thing to see a 3D model on a flat monitor, but it’s a whole different experience when you’re standing right next to it in a virtual space. It’s been a lot of trial and error, but it's finally starting to feel real....... .. :)
