@@ -11,3 +11,5 @@ stops thinking "I am in my living room ". Starts believing "I am actually here."
 the simulation has to be so convincing that it mimics how we perceive reality
 
 [My Journey into Virtual Reality new.pdf](https://github.com/user-attachments/files/26755898/My.Journey.into.Virtual.Reality.new.pdf)
+
+
