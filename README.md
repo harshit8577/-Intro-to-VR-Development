@@ -1,15 +1,7 @@
 # -Intro-to-VR-Development
-To put this report together I looked at things from Meta Platforms Google VR and some really helpful
-YouTube videos. My goal was to get past all the talk and really understand what Virtual Reality is, how it
-works behind the scenes and where it is actually used today. These things helped me understand some
-ideas in a simple way giving me a good understanding of the technology.
-At its core Virtual Reality is not about watching a screen it is about stepping into the content. Of looking at
-a flat image you wear a headset that blocks out your physical surroundings and replaces them with a
-digital world.
-The biggest moment for me was understanding the concept of Presence. It is that feeling where your brain
-stops thinking "I am in my living room ". Starts believing "I am actually here." For Virtual Reality to succeed
-the simulation has to be so convincing that it mimics how we perceive reality
+
+To put this report together, I looked at research from Meta Platforms and Google VR, along with several helpful YouTube videos, to move past the hype and understand the technical mechanics of Virtual Reality. My primary goal was to grasp how VR works behind the scenes and where it is being applied today. Through this process, I learned that VR is not just about watching a screen; it is about stepping into the content. By wearing a headset that blocks out physical surroundings, you are transported into a digital world where the ultimate goal is achieving "Presence"—that specific moment where your brain stops thinking "I am in my room" and starts believing "I am actually here."
+
+To truly understand how this immersion is built, I spent time working directly with industry-standard tools like Blender and Unity. In Blender, I focused on the "digital carpentry" of the world, sculpting 3D assets and mapping textures to ensure every object looked realistic while remaining optimized for performance. I then moved those assets into Unity, which acted as the brain of the project. This is where I scripted the actual interactions, using C# and the XR Interaction Toolkit to handle physics, movement, and hand-tracking. By combining my custom models with Unity’s engine, I was able to see firsthand how stereoscopic vision and spatial audio work together. Seeing my own Blender creations come to life in a 360-degree interactive environment proved that for VR to succeed, the simulation must be precise enough to perfectly mimic how we perceive reality.
 
 [My Journey into Virtual Reality new.pdf](https://github.com/user-attachments/files/26755898/My.Journey.into.Virtual.Reality.new.pdf)
-
-
